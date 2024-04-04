@@ -1,4 +1,4 @@
-UsersIDS = {
-  "541633"
-  
+allowedUserIds = {
+    "541633",
+
 }
